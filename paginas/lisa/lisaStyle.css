@@ -1,0 +1,13 @@
+p{
+    display: flex;
+    text-align: justify;
+   
+}
+
+img {
+    margin: 15px;
+}
+.alinharAoCentro{
+    display: flex;
+    justify-content: center;
+}
